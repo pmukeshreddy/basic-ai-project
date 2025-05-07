@@ -624,5 +624,4 @@ def create_data_loaders(
 
   
 
-if __name__ == "__main__":
-    example_usage()
+
